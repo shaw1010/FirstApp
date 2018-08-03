@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117229078863",
+    "firebase_url": "https://gangadhar-e6a99.firebaseio.com",
+    "project_id": "gangadhar-e6a99",
+    "storage_bucket": "gangadhar-e6a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117229078863:android:00a5182a36440952",
+        "android_client_info": {
+          "package_name": "com.example.shaw.anew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117229078863-s2kc1khplekujgioc03alcql0dkifunt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaw.anew",
+            "certificate_hash": "178b706865c98c06759bd4b14eb1079cbfd32caf"
+          }
+        },
+        {
+          "client_id": "117229078863-pq3ph4rhrqunvci55ghr67h9ifiqnmdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9JCPRySjX5-vtLgRKFn5MBoWCkfCKNnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117229078863-pq3ph4rhrqunvci55ghr67h9ifiqnmdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

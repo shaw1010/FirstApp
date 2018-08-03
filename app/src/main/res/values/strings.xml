@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">new</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="type">
+        <item>Packet</item>
+        <item>Loose</item>
+    </array>
+</resources>
